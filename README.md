@@ -36,6 +36,10 @@ You can find the server running on [http://localhost:3000](http://localhost:3000
 [Provide feedback on this repo](https://docs.google.com/forms/d/e/1FAIpQLSfw4FGdWkLwMLlUaNQ8FtP2CTJdGDUv6Xoxrh19zIrJSkvT4Q/viewform?usp=pp_url&entry.1958421517=boilerplate-fullstack)
 
 
-# Firebase
-# Add Firebase
-npm install firebase
+# Supabase
+# Install
+npm install @supabase/supabase-js
+# Install auth
+npm install @supabase/auth-ui-react @supabase/auth-js
+
+
